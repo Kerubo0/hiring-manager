@@ -536,21 +536,12 @@ footer {
       flex-basis: 100%; 
     }
   }
-  
-  .hero-block-one > * {
-    flex: 1 1 75%; 
-    max-width: 55%;
-    }
 
   .hero-block-two > * {
     flex: 1 1 75%; 
     max-width: 45%;
     }
 
-  .hero-block-three > * {
-    flex: 1 1 75%; 
-    max-width: 45%;
-    }
 
   .content-one > * {
     flex: 1 1 75%; 

@@ -212,31 +212,37 @@ ul li:hover ul.dropdown{
    
     p{
      font-weight: 500;
-     font-size: 22px;
+     font-size: 20px;
      word-spacing: 2px;
     }
 
     .hero-text {
         text-align: center;
         margin: 10px auto;
-        max-width: 60%;
-        /*max-width: 32ch;*/
-        line-height: 1.50em;
+        max-width: 750px;
+        line-height: 1.75em;
       }
-
-      @media (max-width: 1200px){
-        .hero-text{
-          max-width: 70%;
+        .hero-text-1{
+          text-align: center;
+          margin: 10px auto;
+          max-width: 1200px;
+          line-height: 1.6em;
         }
-      }
+
+        .hero-text-2{
+          text-align: center;
+          margin: 10px auto;
+          max-width: 1200px;
+          line-height: 1.6em;
+        }
 
     h1{
-        font-size: 30px;
+        font-size: 32px;
         font-weight: 500;
     }
 
     h2{
-      font-size: 25px;
+      font-size: 30px;
       font-weight: 600;
     }
    
